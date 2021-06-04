@@ -1,2 +1,2 @@
 # springcloud-config
-is config-server
+is springcloud-config-server
